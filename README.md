@@ -1,2 +1,2 @@
-# Lista2
-LISTA DE EXERCÍCIOS DE ALGORITMOS CONDICIONAIS
+# Introducao a Logica de Programacao
+LISTA DE EXERCÍCIOS 
